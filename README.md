@@ -1,1 +1,6 @@
-# goPractice
+SQL查询添加默认值, 检查无效输入
+错误日志完善
+DB代码与http请求代码分离
+检查空指针
+添加全局recover
+
